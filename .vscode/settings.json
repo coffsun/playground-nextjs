@@ -1,0 +1,8 @@
+{
+    // Remove warning tailwind css [Unknown at rule @tailwind]
+    "css.lint.unknownAtRules": "ignore",
+
+    // AutoFix
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+}
